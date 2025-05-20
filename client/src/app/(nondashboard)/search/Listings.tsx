@@ -113,7 +113,7 @@ const Listings = () => {
                 No properties found
               </h3>
               <p className="mt-1 text-sm text-gray-500">
-                Try adjusting your search or filter to find what you're looking for.
+                Try adjusting your search or filter to find what youre looking for.
               </p>
             </div>
           )}

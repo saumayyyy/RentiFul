@@ -20,7 +20,6 @@ const SearchPage = () => {
 
   useEffect(() => {
     const initialFilters = Array.from(searchParams.entries()).reduce(
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       (acc: any, [key, value]) => {
         if (key === "priceRange" || key === "squareFeet") {
           acc[key] = value.split(",").map((v) => (v === "" ? null : Number(v)));
