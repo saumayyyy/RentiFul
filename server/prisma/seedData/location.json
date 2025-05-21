@@ -88,5 +88,32 @@
     "address": "789 Rodeo Dr",
     "postalCode": "90210",
     "coordinates": "POINT(-118.400356 34.073620)"
-  }
+  },
+  {
+  "id": 11,
+  "country": "India",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "address": "Rajiv Chowk, Connaught Place",
+  "postalCode": "110001",
+  "coordinates": "POINT(77.2195 28.6328)"
+},
+{
+  "id": 12,
+  "country": "India",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "address": "Select Citywalk Mall, Saket",
+  "postalCode": "110017",
+  "coordinates": "POINT(77.2197 28.5245)"
+},
+{
+  "id": 13,
+  "country": "India",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "address": "Dwarka Sector 21",
+  "postalCode": "110075",
+  "coordinates": "POINT(77.0147 28.5674)"
+}
 ]
