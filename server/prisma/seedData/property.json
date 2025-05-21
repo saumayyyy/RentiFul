@@ -248,5 +248,80 @@
     "numberOfReviews": 8,
     "locationId": 10,
     "managerCognitoId": "us-east-2:01234567-90ab-cdef-1234-567890abcdef"
-  }
+  },
+  {
+  "id": 11,
+  "name": "Modern Flat in Connaught Place",
+  "description": "Premium 2BHK apartment in central New Delhi near metro and shopping.",
+  "pricePerMonth": 45000,
+  "securityDeposit": 45000,
+  "applicationFee": 500,
+  "photoUrls": [
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home1.png",
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home3.png"
+  ],
+  "amenities": ["AirConditioning", "WasherDryer", "Parking"],
+  "highlights": ["CloseToTransit", "RecentlyRenovated"],
+  "isPetsAllowed": true,
+  "isParkingIncluded": true,
+  "beds": 2,
+  "baths": 2,
+  "squareFeet": 1000,
+  "propertyType": "Apartment",
+  "postedDate": "2024-01-15T00:00:00Z",
+  "averageRating": 4.7,
+  "numberOfReviews": 3,
+  "locationId": 11,
+  "managerCognitoId": "010be580-60a1-70ae-780e-18a6fd94ad32"
+},
+{
+  "id": 12,
+  "name": "Luxury 3BHK in Saket",
+  "description": "Spacious 3BHK apartment near Select Citywalk with top-notch amenities.",
+  "pricePerMonth": 70000,
+  "securityDeposit": 70000,
+  "applicationFee": 600,
+  "photoUrls": [
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home5.png",
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home6.png"
+  ],
+  "amenities": ["AirConditioning", "Gym", "Pool", "WasherDryer"],
+  "highlights": ["GreatView", "CloseToTransit"],
+  "isPetsAllowed": false,
+  "isParkingIncluded": true,
+  "beds": 3,
+  "baths": 3,
+  "squareFeet": 1500,
+  "propertyType": "Apartment",
+  "postedDate": "2024-02-20T00:00:00Z",
+  "averageRating": 4.9,
+  "numberOfReviews": 5,
+  "locationId": 12,
+  "managerCognitoId": "us-east-2:23456789-90ab-cdef-1234-567890abcdef"
+},
+{
+  "id": 13,
+  "name": "Budget Studio in Dwarka",
+  "description": "Affordable and compact studio apartment ideal for professionals.",
+  "pricePerMonth": 18000,
+  "securityDeposit": 18000,
+  "applicationFee": 200,
+  "photoUrls": [
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home2.png",
+    "https://re-s3-bucket-saumay.s3.ap-south-1.amazonaws.com/home4.png"
+  ],
+  "amenities": ["HighSpeedInternet", "AirConditioning"],
+  "highlights": ["CloseToTransit"],
+  "isPetsAllowed": true,
+  "isParkingIncluded": false,
+  "beds": 0,
+  "baths": 1,
+  "squareFeet": 350,
+  "propertyType": "Apartment",
+  "postedDate": "2024-03-10T00:00:00Z",
+  "averageRating": 4.3,
+  "numberOfReviews": 2,
+  "locationId": 13,
+  "managerCognitoId": "us-east-2:34567890-90ab-cdef-1234-567890abcdef"
+}
 ]
